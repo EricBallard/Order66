@@ -26,11 +26,7 @@ Well I can't relate... but I know I guy who could, and he said he wrote this scr
 - Scrolls and highlights each post before deleting
 - Reports # of deleted content with points/date
 - Configurable-ish
-
-### Default Speed
-![lol](/media/default_speed_example_censored.gif)
-
-### Modified Speed
+- 
 ![lol](/media/gamer_speed_example_censored.gif)
 
 ### Configuration
